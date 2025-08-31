@@ -1,8 +1,5 @@
 ﻿# CoreSubject
 
-
-# CoreSubject
-
 Welcome to **CoreSubject**!  
 This repository is dedicated to providing resources, code, and documentation for core computer science subjects. Whether you’re a student, educator, or enthusiast, you’ll find useful examples, explanations, and reference materials related to fundamental topics.
 
@@ -71,3 +68,4 @@ For any questions, suggestions, or feedback, contact [sujalnimkarde7](https://gi
 ---
 
 Happy learning!
+
